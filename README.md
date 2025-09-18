@@ -1,15 +1,15 @@
 # STREAMLINING-TICKET-ASSIGNMENT-FOR-EFFICIENT-SUPPORT-OPERATIONS
 Automated Ticket Assignment System using ServiceNow to streamline support operations. Improves response times, balances workload, and enhances customer satisfaction by intelligently routing tickets to the right support agents through workflows and automation.
 
-# 🎫 Ticket Assignment Streamlining for Efficient Support Operations
+# Ticket Assignment Streamlining for Efficient Support Operations
 
-## 📖 Project Overview
+## Project Overview
 This project focuses on **automating ticket assignment in support operations** using ServiceNow.  
 It addresses inefficiencies in manual workflows by routing tickets intelligently to the right agents, reducing delays, balancing workload, and improving customer satisfaction.
 
 ---
 
-## 🚀 Features
+## Features
 - Automated ticket assignment  
 - Intelligent routing to suitable support agents  
 - Balanced workload distribution  
@@ -19,7 +19,7 @@ It addresses inefficiencies in manual workflows by routing tickets intelligently
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Automate ticket assignment to minimize delays  
 - Ensure tickets are routed to the most suitable and available agents  
 - Improve overall support speed and efficiency  
@@ -27,7 +27,7 @@ It addresses inefficiencies in manual workflows by routing tickets intelligently
 
 ---
 
-## 🛠️ Skills & Tools Used
+## Skills & Tools Used
 - **ServiceNow Platform**  
 - Workflow Automation  
 - Access Control List (ACL)  
